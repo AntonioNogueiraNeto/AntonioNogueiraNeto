@@ -31,6 +31,6 @@ Apaixonado por tecnlogia, jogos e por mudar a vida das pessoas através de açõ
 
 ## Contato
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonio.nogueiraneto@hotmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531998964792)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531998964792?text=Olá%20vim%20do%20seu%20perfil%20do%20GitHub)
 
 
