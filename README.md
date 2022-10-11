@@ -7,6 +7,8 @@
 
 ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonionogueiraneto&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonionogueiraneto)](https://github.com/antonionogueiraneto/github-readme-stats)
+
 
 ## Tecnologias que eu uso no meu dia
 
